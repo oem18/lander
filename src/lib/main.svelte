@@ -18,7 +18,7 @@ section.container {
     box-sizing: border-box;
     width: 100vw;
     height: 100vh;
-    background-image: url("backgroundThree.jpg");
+    background-image: url("/assets/backgroundThree.jpg");
     background-repeat: repeat;
     background-attachment: fixed;
     background-size: contain;
